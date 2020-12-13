@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c10b3b42421b13bbcabdbb957fb5eadd",
+      "css": "short_text",
+      "code": 59392,
+      "src": "material"
+    }
+  ]
+}
